@@ -1,8 +1,8 @@
 <?php
 // VK API
 $access_token = "c1fbc05d1bdd106ced42a5293035a2329275dca52db9cab9a620c6db6407535186a29f0db52fc417c6262";
-$confirmation = "cf32ca19";
-$secret = "CAsda234";
+$confirmation = "3f868de0";
+$secret = "Shewi12011979";
 $v = "5.101";
 
 // COIN API
